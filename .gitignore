@@ -13,3 +13,8 @@ hs_err_pid*
 
 # Mac Craps
 .DS_Store
+
+# IntelliJ Craps
+.idea/
+target/
+*.iml
